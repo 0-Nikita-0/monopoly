@@ -1,0 +1,284 @@
+body{
+	background: #13547a ;
+}
+
+td {
+	background: white;
+	height: 100px;
+	width: 100px;
+}
+
+img{
+	z-index: 100; 
+}
+
+.cen5{
+	width: 20px;
+	background: #800080;
+}
+
+
+
+.cen4{
+	width: 20px;
+	background: #000080;
+}
+
+
+
+.none{
+	width: 20px;
+	opacity: 0;
+}
+
+.cen3{
+	width: 20px;
+	background: #008000;
+}
+
+
+
+.cenpol2{
+	transform: rotate(270deg);
+	 color: white;
+	 font-family: 'Montserrat', sans-serif;
+}
+
+.cenpol{
+	 transform: rotate(90deg);
+	 color: white;
+	 font-family: 'Montserrat', sans-serif;
+}
+
+.cen1{
+	width: 20px;
+	background: darkred;
+}
+
+.cen2{
+	width: 20px;
+	background: #008000;
+}
+
+.btn{
+	width: 60px;
+	height: 25px;
+	background: black;
+	color: white;
+	border-radius: 50px;
+}
+
+.btn:hover{
+	background: white;
+	color: black;
+}
+
+.playerRed{
+	width: 40px;
+	height: 40px;
+	background: red;
+	border-radius: 50px;
+	z-index: 999;
+	position: absolute;
+}
+
+
+.q1{
+	
+	height: 150px;
+	width: 150px;
+}
+
+.portal{
+	padding-left: 35px;
+}
+
+.nen{
+	background: pink;
+}
+
+.start{
+	padding-left: 10px;
+}
+.park{
+	padding-left: 8px;
+}
+
+.container{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100%;
+}
+
+.tbl{
+		position: absolute;
+		top: -250px;
+		transform: scale(55%);
+}
+
+.levelup{
+	padding-left: 38px;
+}
+
+.dostroi{
+	padding-left: 20px;
+}
+
+.kss{
+	padding-left: 30px;
+	transform: scale(90%);
+}
+
+.jail{
+	padding-left: 20px;
+}
+
+.asu{
+	padding-left: 20px;
+	transform: scale(80%);
+}
+
+.fuse{
+	padding-left: 30px;
+	transform: scale(90%);
+}
+
+.maxi{
+	padding-left: 20px;
+}
+
+.ktz{
+	padding-left: 5px;
+	transform: scale(70%);
+}
+
+.kazgaz{
+	padding-left: 25px;
+}
+.egov{
+	padding-left: 20px;
+}
+
+.enpf{
+	padding-left: 10px;
+	transform: scale(90%);
+}
+.damumed{
+	padding-left: 5px;
+	transform: scale(90%);
+}
+
+.pari{
+	padding-left: 15px;
+}
+
+.olimp{
+	padding-left: 7px;
+	transform: scale(80%);
+}
+
+.leon{
+	padding-left: 15px;
+}
+.arystan{
+	padding-left: 33px;
+}
+
+.SCAT{
+	padding-left: 35px;
+}
+
+.airastana{
+	padding-left: 35px;
+}
+
+.CNPS{
+	padding-left: 35px;
+}
+
+
+.qr{
+	padding-left: 17px;
+}
+
+.janil{
+	padding-left: 35px;
+}
+
+.hyundai{
+	padding-left: 25px;
+	transform: scale(130%);
+}
+
+.shevrolet{
+	padding-left: 25px;
+	transform: scale(130%);
+}
+
+
+.kia{
+	padding-left: 25px;
+	transform: scale(130%);
+}
+
+
+.toyota{
+	padding-left: 15px;
+}
+
+
+.rahat{
+	padding-left: 25px;
+	transform: scale(120%);
+}
+
+
+
+
+.syly{
+	padding-left: 20px;
+}
+
+
+.kaspi{
+padding-left: 35px;
+	
+}
+
+.halyk{
+padding-left: 30px;
+	
+}
+
+.ANT{
+	padding-left: 13px;
+	transform: scale(90%);
+}
+
+
+
+.sergek{
+	padding-left: 33px;
+	transform: scale(90%);
+}
+
+
+.wopros{
+	padding-left: 30px;
+}
+
+.wopros1{
+	padding-left: 30px;
+
+}
+
+.wopros2{
+	padding-left: 30px;
+	
+}
+
+.wopros3{
+	padding-right: 25px;
+	transform: rotate(180deg);
+}
